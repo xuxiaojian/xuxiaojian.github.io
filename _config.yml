@@ -26,7 +26,7 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook               : "https://www.facebook.com/yiming.kang"
+  facebook: "https://www.facebook.com/xiaojian.xu.58"
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "yiming.kang"
+  facebook         : "xiaojian.xu.58"
   foursquare       :
   github           : "xuxiaojian"
   google_plus      :
