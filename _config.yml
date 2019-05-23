@@ -26,7 +26,7 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
+  facebook               : "https://www.facebook.com/xiaojian.xu.58"
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D student at Washington University in St. Louis"
   location         : "St. Louis, MO"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jdNOtqwAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Xiaojian_Xu4"
