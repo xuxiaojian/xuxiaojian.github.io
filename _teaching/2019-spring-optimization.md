@@ -11,16 +11,7 @@ I was the head TA of the course "ese415 optimization" taught by [Prof. Kamilov](
 
 Course Description
 ======
-Optimization is at the core of modern artificial intelligence and machine learning, signal and image
-processing, digital communications, control and robotics, operations research, and financial
-engineering. Some of the biggest challenges is these disciplines are formulated and solved as optimization
-problems. It is an essential topic that everyone in computational sciences and engineering must master.
-This course gives a rigorous introduction to the fundamentals of nonlinear optimization theory and
-algorithms. Topics include unconstrained and constrained optimization, convex optimization,
-computational optimization methods, optimality conditions, and duality theory. Algorithms include the
-gradient and accelerated gradient methods, the Newton’s method, the conjugate gradient method,
-proximal gradient method, as well as penalty and barrier methods. The homework emphasizes the
-theoretical understanding, as well as the ability to conceptualize and implement optimization algorithms. 
+Optimization is at the core of modern artificial intelligence and machine learning, signal and image processing, digital communications, control and robotics, operations research, and financial engineering. Some of the biggest challenges is these disciplines are formulated and solved as optimization problems. It is an essential topic that everyone in computational sciences and engineering must master. This course gives a rigorous introduction to the fundamentals of nonlinear optimization theory and algorithms. Topics include unconstrained and constrained optimization, convex optimization, computational optimization methods, optimality conditions, and duality theory. Algorithms include the gradient and accelerated gradient methods, the Newton’s method, the conjugate gradient method, proximal gradient method, as well as penalty and barrier methods. The homework emphasizes the theoretical understanding, as well as the ability to conceptualize and implement optimization algorithms. 
 
 Course Link
 ======
