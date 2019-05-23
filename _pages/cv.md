@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+Link
+======
+[Download my CV here](https://xuxiaojian.github.io/files/xiaojianxu.pdf)
+
 Education
 ======
 * B.Eng. in Communication Engineering, University of Electronic Science and Technology of China, 2014
