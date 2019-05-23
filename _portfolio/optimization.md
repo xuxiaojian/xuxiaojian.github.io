@@ -1,6 +1,6 @@
 ---
 title: "Tutorial for ESE415"
-excerpt: "Photo taken after the last tutorial of ESE415. <br/><img src='/images/tutorial.jpeg'>"
+excerpt: "Photo taken after the last tutorial of ESE415. <br/><img src='/images/optimization.jpeg'>"
 collection: portfolio
 ---
 
