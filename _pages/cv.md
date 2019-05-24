@@ -24,7 +24,7 @@ Work experience
 ======
 
 * 2018-Present: Research Assistant
-  * Washington　University in St. Louis
+  * Washington University in St. Louis
   * Duties included: Research in computional imaging, optimization, machine learning and computer vision
   * Supervisor: [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/Profiles/Pages/Ulugbek-Kamilov.aspx)
   
