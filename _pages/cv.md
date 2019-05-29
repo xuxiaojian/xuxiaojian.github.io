@@ -29,7 +29,7 @@ Work experience
   * Supervisor: [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/Profiles/Pages/Ulugbek-Kamilov.aspx)
 * 2019/05/27 - Present: Intern
   * MERL - MITSUBISHI ELECTRIC RESEARCH LABORATORIES
-  * Duties included: Research in computional imaging and inverse problem
+  * Duties included: Research in computational imaging and inverse problem
   * Supervisor: [Dr. Hassan Mansour](http://www.merl.com/people/mansour)
   
 Skills
