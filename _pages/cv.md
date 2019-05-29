@@ -27,7 +27,7 @@ Work experience
   * Washington University in St. Louis
   * Duties included: Research in computional imaging, optimization, machine learning and computer vision
   * Supervisor: [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/Profiles/Pages/Ulugbek-Kamilov.aspx)
-* 2019/05/27 - Present: Internship
+* 2019/05/27 - Present: Intern
   * MERL - MITSUBISHI ELECTRIC RESEARCH LABORATORIES
   * Duties included: Research in computional imaging and inverse problem
   * Supervisor: [Dr. Hassan Mansour](http://www.merl.com/people/mansour)
