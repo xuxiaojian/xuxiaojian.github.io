@@ -14,15 +14,16 @@ Link
 ======
 [Download my CV here](https://xuxiaojian.github.io/files/xiaojianxu.pdf)
 
+<!---
 Education
 ======
 * B.Eng. in Communication Engineering, University of Electronic Science and Technology of China, 2014
 * M.S. in Communication and Information Engineering, University of Electronic Science and Technology of China, 2017
 * Ph.D in Comupter Science, Washington　University in St. Louis , 2022 (expected)
-
+--->
+<!---
 Work experience
 ======
-
 * 2018 - Present: Research Assistant
   * Washington University in St. Louis
   * Duties included: Research in computional imaging, optimization, machine learning and computer vision
@@ -31,7 +32,8 @@ Work experience
   * MERL - MITSUBISHI ELECTRIC RESEARCH LABORATORIES
   * Duties included: Research in computational imaging and inverse problem
   * Supervisor: [Dr. Hassan Mansour](http://www.merl.com/people/mansour)
-  
+--->  
+<!---
 Skills
 ======
 * Python
@@ -39,6 +41,7 @@ Skills
 * Tensorflow
 * Java
 * C
+--->
 
 Publications
 ======
