@@ -1,0 +1,18 @@
+---
+title: "Provable Convergence of Plug-and-Play Priors With MMSE Denoisers"
+collection: publications
+permalink: /publication/2020-08-27-MMSE
+excerpt: 'Plug-and-play priors (PnP) is a methodology for regularized image reconstruction that specifies the prior through an image denoiser. While PnP algorithms are well understood for denoisers performing \emph{maximum a posteriori probability (MAP)} estimation, they have not been analyzed for the \emph{minimum mean squared error (MMSE)} denoisers. This letter addresses this gap by establishing the first theoretical convergence result for the iterative shrinkage/thresholding algorithm (ISTA) variant of PnP for MMSE denoisers. We show that the iterates produced by PnP-ISTA with an MMSE denoiser converge to a stationary point of some global cost function. We validate our analysis on sparse signal recovery in compressive sensing by comparing two types of denoisers, namely the \emph{exact} MMSE denoiser and the \emph{approximate} MMSE denoiser obtained by training a deep neural net.'
+date: 2020-08-27
+venue: 'Ieee Signal Processing Letters'
+paperurl: 'https://ieeexplore.ieee.org/document/9130860'
+citation: 'X. Xu, Y. Sun, J. Liu, B. Wohlberg and U. S. Kamilov, "Provable Convergence of Plug-and-Play Priors With MMSE Denoisers," in IEEE Signal Processing Letters, vol. 27, pp. 1280-1284, 2020, doi: 10.1109/LSP.2020.3006390.'
+---
+# Abstract
+Plug-and-play priors (PnP) is a methodology for regularized image reconstruction that specifies the prior through an image denoiser. While PnP algorithms are well understood for denoisers performing \emph{maximum a posteriori probability (MAP)} estimation, they have not been analyzed for the \emph{minimum mean squared error (MMSE)} denoisers. This letter addresses this gap by establishing the first theoretical convergence result for the iterative shrinkage/thresholding algorithm (ISTA) variant of PnP for MMSE denoisers. We show that the iterates produced by PnP-ISTA with an MMSE denoiser converge to a stationary point of some global cost function. We validate our analysis on sparse signal recovery in compressive sensing by comparing two types of denoisers, namely the \emph{exact} MMSE denoiser and the \emph{approximate} MMSE denoiser obtained by training a deep neural net.
+
+# Link
+[Download paper here](https://ieeexplore.ieee.org/document/9130860)
+
+# Citation
+X. Xu, Y. Sun, J. Liu, B. Wohlberg and U. S. Kamilov, "Provable Convergence of Plug-and-Play Priors With MMSE Denoisers," in IEEE Signal Processing Letters, vol. 27, pp. 1280-1284, 2020, doi: 10.1109/LSP.2020.3006390.
