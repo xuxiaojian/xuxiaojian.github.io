@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Nice to meet you her!
+Nice to meet you here!
 
 I am Xiaojian Xu, a 4th-year Ph.D student in the Computational Imaging Group (CIG) in CSE Department at Washington University in St. Louis (WashU), advised by [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/Profiles/Pages/Ulugbek-Kamilov.aspx).
 
