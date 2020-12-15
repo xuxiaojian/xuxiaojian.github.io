@@ -1,0 +1,16 @@
+---
+title: "ROBUST 3D TOMOGRAPHIC IMAGING OF THE IONOSPHERIC ELECTRON DENSITY"
+collection: talks
+type: "Talk"
+permalink: /talks/2020-09-29-R3TIIED
+venue: " IGARSS 2020 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
+date: September 26 - October 2, 2020
+location: "Virtual Symposium"
+---
+
+This talk was given in the session "3D Terrain Mapping / Tomographic Imaging of Forest and Ionosphere" at IGARSS 2020. 
+
+In this paper, we develop a robust three dimensional tomographic imaging framework to estimate the ionospheric electron density using ground-based total electron content (TEC) measurements from GPS receivers. In order to increase the sampling rate of the domain, we incorporate into the tomographic measurements the TEC readings observed from low-angle satellites that fall outside of the target ionospheric domain. We discount the proportion of the TEC measurements that originate outside of the target domain using the simulation-based NeQuick2 model as reference. We also employ a diffusion kernel regularization function to robustify the reconstruction against errors in the NeQuick2 model. Finally, we demonstrate through simulations that our framework delivers superior reconstruction of the ionospheric electron density compared to existing schemes. We also demonstrate the applicability of our approach on real TEC measurements.
+
+[Download slides here](https://xuxiaojian.github.io/files/igarss.pdf)
+[Download video here](https://xuxiaojian.github.io/files/igarss.mp4)
