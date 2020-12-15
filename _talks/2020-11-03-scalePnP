@@ -1,0 +1,20 @@
+
+
+---
+title: "Boosting the Performance of Plug-and-Play Priors via Denoiser Scaling"
+collection: talks
+type: "Talk"
+permalink: /talks/2020-11-03-scalePnP
+venue: "54th Asilomar Conference on Signals, Systems and Computers"
+date: Nov. 1-5, 2020
+location: "Virtual Symposium"
+---
+
+This talk was given in the session "H6-2: Learning from Light: Where Computer Vision and Machine Learning Meets Optics and Imaging
+" at 54th Asilomar Conference. 
+
+Plug-and-play priors (PnP) is an image reconstruction framework that uses an image denoiser as an imaging prior. Unlike traditional regularized inversion, PnP does not require the prior to be expressible in the form of a regularization function. This flexibility enables PnP algorithms to exploit the most effective image denoisers, leading to their state-of-the-art performance in various imaging tasks. However, many powerful denoisers, such as the ones based on convolutional neural networks (CNNs), do not have tunable parameters that would allow controlling their influence within PnP. To address this issue, in this paper, we introduce a scaling parameter that adjusts the magnitude of the denoiser input and output. We theoretical justify the denoiser scaling from the perspectives of proximal optimization, statistical estimation, and consensus equilibrium. Finally, we provide numerical experiments demonstrating the ability of denoiser scaling to systematically improve the performance of PnP for denoising CNN priors that do not have explicitly tunable parameters.
+
+[Visit conference here](https://www.asilomarsscconf.org/)
+[Download slides here](https://xuxiaojian.github.io/files/Asilomar_2020—stastic.pdf)
+[Download video here](https://xuxiaojian.github.io/files/2020_Asilomar.pdf)
