@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+<!-- * [Here](http://zihuiwu.github.io/files/Zihui_Wu_CV.pdf) is a PDF of my CV. -->
+
+<embed src="http://zihuiwu.github.io/files/xiaojianxu.pdf" width="100%" height="100%" />
