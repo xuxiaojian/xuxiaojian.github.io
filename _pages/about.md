@@ -15,8 +15,9 @@ Before I came to WashU, I got my B.Eng. degree from University of Electronic Sci
 
 Recent news
 ======
+```
 * 05-24-2021: I started my research intern at Facebook Reality Lab (FRL).
-
+```
 
 
 <!--- 
