@@ -16,8 +16,11 @@ Before I came to WashU, I got my B.Eng. degree from University of Electronic Sci
 Recent news
 ======
 > 05-24-2021: I started my research intern at Facebook Reality Lab (FRL).
-
-
+> 05-04-2021: I defensed my thesis proposal on "Model-based Deep Learning for Computational Imaging".
+> 04-03-2020: I passed my oral qualification exam on "Computational Imaging: Leverage the Power of Deep Learning".
+> 05-27-2019: I started my research intern at MITSUBIShI ELECTRIC Research Laboratory (MERL).
+> 02-01-2018: I joined the Computational Imaging Group (CIG) under the supervision of [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html)
+> 08-27-2017: I joined the Computer Science and Engineering (CSE) department at WashU.
 
 <!--- 
 Before I came to WashU, I got my B.Eng. degree from University of Electronic Science and Technology of China (UESTC) in 2014 and then was recommend as an exam-free student to the graduate school of UESTC and later got my M.S. degree there in 2017. Back then, I majored in communication and information engineering and did most of my research in wireless and computer network engineering. It was a very helpful and interesting journey and I always appreciate what I have learned in that field. Besides, UESTC is located in Chengdu, a city full of good food. I enjoied my seven years there a lot!
