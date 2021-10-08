@@ -17,7 +17,7 @@ Recent news
 ======
 
 ```bash
-* 05-24-2021: I started my research intern at Facebook Reality Lab (FRL).
+* 05-24-2021: I started my research intern at Facebook Reality Labs Research (FRL).
 * 05-04-2021: I defensed my thesis proposal on "Model-based Deep Learning for Computational Imaging".
 * 04-03-2020: I passed my oral qualification exam on "Computational Imaging: Leverage the Power of Deep Learning".
 * 05-27-2019: I started my research intern at Mitsubishi Electric Research Laboratory (MERL).
