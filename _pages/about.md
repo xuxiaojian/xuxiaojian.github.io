@@ -17,8 +17,9 @@ Recent news
 ======
 
 ```bash
+* 07-28-2022: I passed my dissertation defense on "Model-based Deep Learning for Computational Imaging".
 * 05-24-2021: I started my research intern at Facebook Reality Labs Research (FRL).
-* 05-04-2021: I defended my thesis proposal on "Model-based Deep Learning for Computational Imaging".
+* 05-04-2021: I passed my thesis proposal defense on "Model-based Deep Learning for Computational Imaging".
 * 04-03-2020: I passed my oral qualification exam on "Computational Imaging: Leverage the Power of Deep Learning".
 * 05-27-2019: I started my research intern at Mitsubishi Electric Research Laboratory (MERL).
 * 02-01-2018: I joined the Computational Imaging Group (CIG) under the supervision of Prof. Ulugbek Kamilov.
