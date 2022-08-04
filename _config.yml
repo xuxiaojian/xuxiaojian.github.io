@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xiaojian Xu"
 title_separator          : "-"
-name                     : &name "Xiaojian Xu (许晓健)"
+name                     : &name "Xiaojian Xu"
 description              : &description "PhD in CS, Washington University in St. Louis"
 url                      : https://xuxiaojian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaojian Xu"
+  name             : "Xiaojian Xu (许晓健)"
   avatar           : "profile.png"
-  bio              : "Ph.D student at Washington University in St. Louis"
+  bio              : "PhD in CS, Washington University in St. Louis"
   location         : "St. Louis, MO"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
