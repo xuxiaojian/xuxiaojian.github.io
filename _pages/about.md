@@ -10,7 +10,7 @@ redirect_from:
 
 Nice to meet you here!
 
-I am Xiaojian Xu, a junior but passionate researcher working on computational imaging! I am currently a postdoc student in the EECS department at University of Michigan, working with [Prof. Jeffery Fessler]( https://web.eecs.umich.edu/~fessler/).
+I am Xiaojian Xu, a junior but passionate researcher working on computational imaging! I am currently a postdoc student in the EECS department at University of Michigan (UMchi), working with [Prof. Jeffery Fessler]( https://web.eecs.umich.edu/~fessler/).
 
 I got my PhD degree in Computer Science from Washington University in St. Louis (WashU) in 2022, where I had the fortune to work with [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) in the Computational Imaging Group (CIG). Before I came to WashU, I got my  B.S. degree in Communication and Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2014 and then was recommend as an exam-free student to the graduate school and got my M.S. degree in Communication and Information Systems there in 2017. 
 
@@ -21,7 +21,7 @@ Recent news
 ======
 
 ```bash
-* 08-22-2022: I started my postdoc research in at University of Michigan under the supervision of Prof. Jeffery Fessler.
+* 08-22-2022: I started my postdoc research at UMchi under the supervision of Prof. Jeffery Fessler.
 * 07-28-2022: I passed my dissertation defense on "Model-based Deep Learning for Computational Imaging".
 * 05-24-2021: I started my research intern at Facebook Reality Labs Research (FRL).
 * 05-04-2021: I passed my thesis proposal defense on "Model-based Deep Learning for Computational Imaging".
