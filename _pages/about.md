@@ -21,6 +21,7 @@ Recent news
 ======
 
 ```bash
+* 08-22-2022: I started my postdoc research in at University of Michigan under the supervision of Prof. Jeffery Fessler.
 * 07-28-2022: I passed my dissertation defense on "Model-based Deep Learning for Computational Imaging".
 * 05-24-2021: I started my research intern at Facebook Reality Labs Research (FRL).
 * 05-04-2021: I passed my thesis proposal defense on "Model-based Deep Learning for Computational Imaging".
