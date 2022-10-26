@@ -17,6 +17,12 @@ I got my PhD degree in Computer Science from Washington University in St. Louis 
 My research interests include computational imaging, inverse problems, optimization theory, computer vision and deep learning. Please feel free to contact me if you are interested in our research or would like to have a casual chat! 
 
 
+Quick link
+======
+[My PhD defense slides](https://xuxiaojian.github.io/files/defense.pdf)
+
+
+
 Recent news
 ======
 
