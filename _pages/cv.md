@@ -12,7 +12,7 @@ redirect_from:
 
 Link
 ======
-[Download my CV here](https://xuxiaojian.github.io/files/xiaojianxu.pdf)
+[Download my CV here](https://xuxiaojian.github.io/files/XiaojianXu.pdf)
 
 <!---
 Education
