@@ -7,7 +7,7 @@ venue: "Washington University in St. Louis, Electrical & Systems Engineering"
 date: 2019-01-15
 location: "St. Louis, USA"
 ---
-I was the head TA of the course "ESE415 optimization" taught by [Prof. Kamilov](https://engineering.wustl.edu/Profiles/Pages/Ulugbek-Kamilov.aspx). I held a TA hour and gave a tutorial class each week as a supplementary of the course. I really enjoy this experience.
+I was the head TA of the course "ESE415 optimization" taught by [Prof. Kamilov](https://engineering.wustl.edu/Profiles/Pages/Ulugbek-Kamilov.aspx). I served as the head assistant instructor and guest lecturer for course "Optimization" and "Large-Scale Optimization for Data Science" and obtained high evaluation from students.
 
 Course Description
 ======
