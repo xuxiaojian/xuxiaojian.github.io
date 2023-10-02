@@ -16,7 +16,9 @@ I got my PhD degree in Computer Science from Washington University in St. Louis 
 
 My research interests include computational imaging, inverse problems, optimization theory, computer vision and deep learning. Please feel free to contact me if you are interested in our research! 
 
+
 # I am currently on the job market.
+
 
 Recent news
 ======
@@ -35,12 +37,11 @@ Recent news
 Contact Information:
 ======
 Department of Electrical Engineering and Computer Science (EECS) <br>
-University of Michigan, Ann Arbor <br>
-MI, 48109, USA <br>
+University of Michigan, Ann Arbor MI, 48109, USA <br>
 Email: xiaojian+lastname@wustl.edu; xj+lastname@umich.edu
 
 <a href="https://xuxiaojian.github.io/">
-<img src="/images/bridge.jpeg" alt="Trulli" width="700" height="333">
+<img src="/images/WechatIMG458.jpeg" alt="Trulli" width="700" height="333">
 </a>
 
 <body> 
