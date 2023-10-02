@@ -17,13 +17,6 @@ I got my PhD degree in Computer Science from Washington University in St. Louis 
 My research interests include computational imaging, inverse problems, optimization theory, computer vision and deep learning. Please feel free to contact me if you are interested in our research! 
 
 # I am currently on the job market.
-<!---
-
-Quick link
-======
-[My PhD defense slides](https://xuxiaojian.github.io/files/defense.pdf)
-
---->
 
 Recent news
 ======
@@ -38,6 +31,41 @@ Recent news
 * 02-01-2018: I joined the Computational Imaging Group (CIG) under the supervision of Prof. Ulugbek Kamilov.
 * 08-27-2017: I joined the Computer Science and Engineering (CSE) department at WashU.
 ```
+
+Contact Information:
+======
+Department of Electrical Engineering and Computer Science (EECS) <br>
+University of Michigan, Ann Arbor <br>
+MI, 48109, USA <br>
+Email: xiaojian+lastname@wustl.edu; xj+lastname@umich.edu
+
+<a href="https://xuxiaojian.github.io/">
+<img src="/images/bridge.jpeg" alt="Trulli" width="700" height="333">
+</a>
+
+<body> 
+<p style="text-align:left">
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=wMBep7xmK2akhC--rKvXsXFXJFCS1qisst7HCDAJqpU'></script>
+ </p>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+<!---
+Quick link
+======
+[My PhD defense slides](https://xuxiaojian.github.io/files/defense.pdf)
+
+--->
+
 
 <!--- 
 Before I came to WashU, I got my B.Eng. degree from University of Electronic Science and Technology of China (UESTC) in 2014 and then was recommend as an exam-free student to the graduate school of UESTC and later got my M.S. degree there in 2017. Back then, I majored in communication and information engineering and did most of my research in wireless and computer network engineering. It was a very helpful and interesting journey and I always appreciate what I have learned in that field. Besides, UESTC is located in Chengdu, a city full of good food. I enjoied my seven years there a lot!
