@@ -47,7 +47,7 @@ Email: xiaojian+lastname@wustl.edu; xj+lastname@umich.edu
 
 <body> 
 <p style="text-align:left">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=gJFHiN0kuh2VoYoh3GoQCltCfsr03nsanhtTVTdVs0M"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=gJFHiN0kuh2VoYoh3GoQCltCfsr03nsanhtTVTdVs0M&co=ffffff&ct=ffffff&cmn=ffffff&cmo=ffffff"></script>
  </p>
 </body>
 
