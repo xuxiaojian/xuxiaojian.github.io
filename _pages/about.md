@@ -40,7 +40,7 @@ Department of Electrical Engineering and Computer Science (EECS) <br>
 University of Michigan, Ann Arbor MI, 48109, USA <br>
 Email: xiaojian+lastname@wustl.edu; xj+lastname@umich.edu
 
-<a href="https://xuxiaojian.github.io/">
+<a>
 <img src="/images/WechatIMG458.jpeg" alt="Trulli" width="700" height="333">
 </a>
 
