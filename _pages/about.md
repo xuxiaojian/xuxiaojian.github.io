@@ -17,7 +17,7 @@ I got my PhD degree in Computer Science from Washington University in St. Louis 
 My research interests include computational imaging, inverse problems, optimization theory, computer vision and deep learning. Please feel free to contact me if you are interested in our research! 
 
 
-# I am currently on the job market.
+<h2>I am currently on the job market.</h2>
 
 
 Recent news
