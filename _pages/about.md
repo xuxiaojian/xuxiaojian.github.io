@@ -44,9 +44,10 @@ Email: xiaojian+lastname@wustl.edu; xj+lastname@umich.edu
 <img src="/images/WechatIMG458.jpeg" alt="Trulli" width="700" height="333">
 </a>
 
+
 <body> 
 <p style="text-align:left">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gJFHiN0kuh2VoYoh3GoQCltCfsr03nsanhtTVTdVs0M&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?d=gJFHiN0kuh2VoYoh3GoQCltCfsr03nsanhtTVTdVs0M&cl=ffffff&w=a'></script>
  </p>
 </body>
 
