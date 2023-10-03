@@ -34,7 +34,7 @@ Recent news
 * 08-27-2017: I joined the Computer Science and Engineering (CSE) department at WashU.
 ```
 
-Contact Information:
+Contact Information
 ======
 Department of Electrical Engineering and Computer Science (EECS) <br>
 University of Michigan, Ann Arbor MI, 48109, USA <br>
