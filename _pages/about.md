@@ -34,22 +34,22 @@ Recent news
 * 08-27-2017: I joined the Computer Science and Engineering (CSE) department at WashU.
 ```
 
-Contact Information
+Contact information
 ======
 Department of Electrical Engineering and Computer Science (EECS) <br>
 University of Michigan, Ann Arbor MI, 48109, USA <br>
 Email: xiaojian+lastname@wustl.edu; xj+lastname@umich.edu
 
-<a href="https://xuxiaojian.github.io/">
+<a>
 <img src="/images/WechatIMG458.jpeg" alt="Trulli" width="700" height="333">
 </a>
 
+
 <body> 
 <p style="text-align:left">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gJFHiN0kuh2VoYoh3GoQCltCfsr03nsanhtTVTdVs0M&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=gJFHiN0kuh2VoYoh3GoQCltCfsr03nsanhtTVTdVs0M&co=ffffff&ct=ffffff&cmn=ffffff&cmo=ffffff"></script>
  </p>
 </body>
-
 
 
 
