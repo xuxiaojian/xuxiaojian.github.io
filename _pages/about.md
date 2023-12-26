@@ -14,7 +14,7 @@ I am Xiaojian Xu, a junior but passionate researcher working on computational im
 
 I got my PhD degree in Computer Science from Washington University in St. Louis (WashU) in 2022, where I had the fortune to work with [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) in the Computational Imaging Group (CIG). Before I came to WashU, I got my  B.S. degree in Communication and Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2014,  recommend as an exam-free student to the graduate school, and then got my M.S. degree in Communication and Information Systems there in 2017. 
 
-My research interests include computational imaging, inverse problems, optimization theory, computer vision and deep learning. Please feel free to contact me if you are interested in our research! 
+My research interests include Computational Imaging, Deep Learning, Generative AI, Inverse Problems, Optimization Theory, and Computer Vision. Please feel free to contact me if you are interested in our research! 
 
 
 <h2>I am currently on the job market.</h2>
