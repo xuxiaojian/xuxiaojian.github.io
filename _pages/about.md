@@ -17,21 +17,8 @@ Prior to joining GEHC, I was a postdoctoral researcher in the EECS department at
 My research interests span computational imaging, optimization theory, biomedical imaging, deep learning, generative AI, inverse problems, and computer vision. If you’re interested in our work, feel free to reach out!
 
 
-
-Recent work
-======
-
-```bash
-* 12-02-2024: The first [3D MRI Foundation Model](https://www.gehealthcare.com/insights/article/ge-healthcare-unveils-research-on-advanced-3d-mri-foundation-model?srsltid=AfmBOoo3shueJoPpdyxCaj9x0MvGnPR7qsrL_lLa5JX3nwjqo02xkwlZ) developed by our Foundation AI Team at GEHC is announced!
-* 10-02-2024: Our work [Segment as You Wish -- Free-Form Language-Based Segmentation for Medical Images](https://arxiv.org/abs/2410.12831) is online now!
-* 09-29-2024: Our work [Swap-Net: A Memory-Efficient 2.5 D Network for Sparse-View 3D Cone Beam CT Reconstruction](https://arxiv.org/abs/2410.10836) is online now!
-* 09-25-2024: Our work [Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems](https://openreview.net/forum?id=HGnxhHz6ss&referrer=%5Bthe%20profile%20of%20Bowen%20Song%5D(%2Fprofile%3Fid%3D~Bowen_Song3)) is accepted by NeurIPS 2024!
-* 09-16-2024: Our work [Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-24-43366&id=563438) is accepted by Optics Express! 
-```
-
 Recent news
 ======
-
 ```bash
 * 05-20-2024: I started a new position as an AI Research Scientist in the Foundation AI Team at GE HealthCare (GEHC).
 * 08-22-2022: I started my postdoc research at UMich under the supervision of Prof. Jeffrey Fessler.
@@ -71,7 +58,20 @@ Email: xiaojian+lastname@wustl.edu
 
 
 <!---
-	
+
+
+
+Recent work
+======
+
+```bash
+* 12-02-2024: The first [3D MRI Foundation Model](https://www.gehealthcare.com/insights/article/ge-healthcare-unveils-research-on-advanced-3d-mri-foundation-model?srsltid=AfmBOoo3shueJoPpdyxCaj9x0MvGnPR7qsrL_lLa5JX3nwjqo02xkwlZ) developed by our Foundation AI Team at GEHC is announced!
+* 10-02-2024: Our work [Segment as You Wish -- Free-Form Language-Based Segmentation for Medical Images](https://arxiv.org/abs/2410.12831) is online now!
+* 09-29-2024: Our work [Swap-Net: A Memory-Efficient 2.5 D Network for Sparse-View 3D Cone Beam CT Reconstruction](https://arxiv.org/abs/2410.10836) is online now!
+* 09-25-2024: Our work [Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems](https://openreview.net/forum?id=HGnxhHz6ss&referrer=%5Bthe%20profile%20of%20Bowen%20Song%5D(%2Fprofile%3Fid%3D~Bowen_Song3)) is accepted by NeurIPS 2024!
+* 09-16-2024: Our work [Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-24-43366&id=563438) is accepted by Optics Express! 
+```
+
 <h2>I am currently on the job market.</h2>
 Quick link
 ======
