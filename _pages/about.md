@@ -43,8 +43,8 @@ Recent news
 
 Contact information
 ======
-Washington University in St. Louis
-Department of Computer Science and Engineering
+Washington University in St. Louis <br>
+Department of Computer Science and Engineering <br>
 Email: xiaojian+lastname@wustl.edu
 
 <a>
