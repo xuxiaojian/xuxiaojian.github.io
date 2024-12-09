@@ -17,7 +17,6 @@ Prior to joining GEHC, I was a postdoctoral researcher in the EECS department at
 My research interests span computational imaging, optimization theory, biomedical imaging, deep learning, generative AI, inverse problems, and computer vision. If you’re interested in our work, feel free to reach out!
 
 
-<h2>I am currently on the job market.</h2>
 
 Recent work
 ======
@@ -72,6 +71,8 @@ Email: xiaojian+lastname@wustl.edu
 
 
 <!---
+	
+<h2>I am currently on the job market.</h2>
 Quick link
 ======
 [My PhD defense slides](https://xuxiaojian.github.io/files/defense.pdf)
