@@ -10,20 +10,31 @@ redirect_from:
 
 Nice to meet you here!
 
-I am Xiaojian Xu, a junior but passionate researcher working on computational imaging! I am currently a postdoc research fellow in the EECS department at University of Michigan (UMich), working with [Prof. Jeffrey Fessler]( https://web.eecs.umich.edu/~fessler/).
+I am Xiaojian Xu, an enthusiastic researcher specializing in computational imaging. Currently, I am an AI Research Scientist with the Foundation AI team at GE HealthCare (GEHC), where I focus on developing large language models, foundational AI models, vision-language models, and multimodal models for medical imaging and healthcare applications.
 
-I got my PhD degree in Computer Science from Washington University in St. Louis (WashU) in 2022, where I had the fortune to work with [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) in the Computational Imaging Group (CIG). Before I came to WashU, I got my  B.S. degree in Communication and Information Engineering from University of Electronic Science and Technology of China (UESTC) in 2014,  recommend as an exam-free student to the graduate school, and then got my M.S. degree in Communication and Information Systems there in 2017. 
+Prior to joining GEHC, I was a postdoctoral researcher in the EECS department at the University of Michigan (UMich) from 2022 to 2024, luckily working under the guidance of [Prof. Jeffrey Fessler]( https://web.eecs.umich.edu/~fessler/). I earned my Ph.D. in Computer Science in 2022 from Washington University in St. Louis (WashU), where I had the privilege of working with [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) in the Computational Imaging Group (CIG) in the Computational Imaging Group (CIG). Before my time at WashU, I completed my B.S. in Communication and Information Engineering at the University of Electronic Science and Technology of China (UESTC) in 2014. I was admitted to the graduate program as an exam-exempt student and later earned my M.S. in Communication and Information Systems from UESTC in 2017.
 
-My research interests include Computational Imaging, Deep Learning, Generative AI, Inverse Problems, Optimization Theory, and Computer Vision. Please feel free to contact me if you are interested in our research! 
+My research interests span computational imaging, optimization theory, biomedical imaging, deep learning, generative AI, inverse problems, and computer vision. If you’re interested in our work, feel free to reach out!
 
 
 <h2>I am currently on the job market.</h2>
 
+Recent work
+======
+
+```bash
+* 12-02-2024: The first [3D MRI Foundation Model](https://www.gehealthcare.com/insights/article/ge-healthcare-unveils-research-on-advanced-3d-mri-foundation-model?srsltid=AfmBOoo3shueJoPpdyxCaj9x0MvGnPR7qsrL_lLa5JX3nwjqo02xkwlZ) developed by our Foundation AI Team at GEHC is announced!
+* 10-02-2024: Our work [Segment as You Wish -- Free-Form Language-Based Segmentation for Medical Images](https://arxiv.org/abs/2410.12831) is online now!
+* 09-29-2024: Our work [Swap-Net: A Memory-Efficient 2.5 D Network for Sparse-View 3D Cone Beam CT Reconstruction](https://arxiv.org/abs/2410.10836) is online now!
+* 09-25-2024: Our work [Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems](https://openreview.net/forum?id=HGnxhHz6ss&referrer=%5Bthe%20profile%20of%20Bowen%20Song%5D(%2Fprofile%3Fid%3D~Bowen_Song3)) is accepted by NeurIPS 2024!
+* 09-16-2024: Our work [Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-24-43366&id=563438) is accepted by Optics Express! 
+```
 
 Recent news
 ======
 
 ```bash
+* 05-20-2024: I started a new position as an AI Research Scientist in the Foundation AI Team at GE HealthCare (GEHC).
 * 08-22-2022: I started my postdoc research at UMich under the supervision of Prof. Jeffrey Fessler.
 * 07-28-2022: I passed my dissertation defense on "Model-based Deep Learning for Computational Imaging".
 * 05-24-2021: I started my research intern at Facebook Reality Labs Research (FRL).
@@ -36,8 +47,8 @@ Recent news
 
 Contact information
 ======
-Department of Electrical Engineering and Computer Science (EECS) <br>
-University of Michigan, Ann Arbor MI, 48109, USA <br>
+Washington University in St. Louis
+Department of Computer Science and Engineering
 Email: xiaojian+lastname@wustl.edu
 
 <a>
@@ -64,7 +75,8 @@ Email: xiaojian+lastname@wustl.edu
 Quick link
 ======
 [My PhD defense slides](https://xuxiaojian.github.io/files/defense.pdf)
-
+Department of Electrical Engineering and Computer Science (EECS) <br>
+University of Michigan, Ann Arbor MI, 48109, USA <br>
 --->
 
 
