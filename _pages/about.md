@@ -19,7 +19,6 @@ My research interests span computational imaging, optimization theory, biomedica
 
 Recent work
 ======
-* 12-02-2024: The first [3D MRI Foundation Model](https://www.gehealthcare.com/insights/article/ge-healthcare-unveils-research-on-advanced-3d-mri-foundation-model?srsltid=AfmBOoo3shueJoPpdyxCaj9x0MvGnPR7qsrL_lLa5JX3nwjqo02xkwlZ) developed by our Foundation AI Team at GEHC is announced!
 * 10-02-2024: Our work [Segment as You Wish -- Free-Form Language-Based Segmentation for Medical Images](https://arxiv.org/abs/2410.12831) is online now!
 * 09-29-2024: Our work [Swap-Net: A Memory-Efficient 2.5 D Network for Sparse-View 3D Cone Beam CT Reconstruction](https://arxiv.org/abs/2410.10836) is online now!
 * 09-25-2024: Our work [Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems](https://openreview.net/pdf/5c1849cec489253b53dd5ced49cd88613b54d884.pdf) is accepted to NeurIPS 2024!
@@ -69,6 +68,7 @@ Email: xiaojian+lastname@wustl.edu
 
 <!---
 
+* 12-02-2024: The first [3D MRI Foundation Model](https://www.gehealthcare.com/insights/article/ge-healthcare-unveils-research-on-advanced-3d-mri-foundation-model?srsltid=AfmBOoo3shueJoPpdyxCaj9x0MvGnPR7qsrL_lLa5JX3nwjqo02xkwlZ) developed by our Foundation AI Team at GEHC is announced!
 
 
 Recent work
