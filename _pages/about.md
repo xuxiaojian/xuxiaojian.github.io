@@ -12,15 +12,15 @@ Nice to meet you here!
 
 I am Xiaojian Xu, an enthusiastic researcher specializing in computational imaging. Currently, I am an AI Research Scientist with the Foundation AI team at GE HealthCare (GEHC), where I focus on developing large language models, foundational AI models, vision-language models, and multimodal models for medical imaging and healthcare applications.
 
-Prior to joining GEHC, I was a postdoctoral researcher in the EECS department at the University of Michigan (UMich) from 2022 to 2024, luckily working under the guidance of [Prof. Jeffrey Fessler]( https://web.eecs.umich.edu/~fessler/). I earned my Ph.D. in Computer Science in 2022 from Washington University in St. Louis (WashU), where I had the privilege of working with [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) in the Computational Imaging Group (CIG) in the Computational Imaging Group (CIG). Before my time at WashU, I completed my B.E. in Communication and Information Engineering at the University of Electronic Science and Technology of China (UESTC) in 2014. I was admitted to the graduate program as an exam-exempt student and later earned my M.E. in Communication and Information Systems from UESTC in 2017.
+Prior to joining GEHC, I was a postdoctoral researcher in the EECS department at the University of Michigan (UMich) from 2022 to 2024, working under the guidance of [Prof. Jeffrey Fessler]( https://web.eecs.umich.edu/~fessler/). I earned my Ph.D. in Computer Science in 2022 from Washington University in St. Louis (WashU), where I had the privilege of working with [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) in the Computational Imaging Group (CIG). Before my time at WashU, I completed my B.E. in Communication and Information Engineering at the University of Electronic Science and Technology of China (UESTC) in 2014. I was admitted to the graduate program as an exam-exempt student and later earned my M.E. in Communication and Information Systems from UESTC in 2017.
 
 My research interests span computational imaging, optimization theory, biomedical imaging, deep learning, generative AI, inverse problems, and computer vision. If you’re interested in our work, feel free to reach out!
 
 
 Recent work
 ======
-* 10-02-2024: Our work [Segment as You Wish -- Free-Form Language-Based Segmentation for Medical Images](https://arxiv.org/abs/2410.12831) is online now!
-* 09-29-2024: Our work [Swap-Net: A Memory-Efficient 2.5 D Network for Sparse-View 3D Cone Beam CT Reconstruction](https://arxiv.org/abs/2410.10836) is online now!
+* 05-15-2025: Our work [FlanS - A Foundation Model for Free-Form Language-based Segmentation in Medical Images](https://openreview.net/forum?id=Db2l63PiKb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2025%2FResearch_Track_February%2FAuthors%23your-submissions)) is accepted to KDD 2025 (Research Track)!
+* 05-07-2025: Our work [Swap-Net: A Memory-Efficient 2.5D Network for Sparse-View 3D Cone Beam CT Reconstruction to ICF Applications](https://arxiv.org/abs/2410.10836) is accepted to IEEE Transactions on Computational Imaging!
 * 09-25-2024: Our work [Learning Image Priors through Patch-based Diffusion Models for Solving Inverse Problems](https://openreview.net/pdf/5c1849cec489253b53dd5ced49cd88613b54d884.pdf) is accepted to NeurIPS 2024!
 * 09-16-2024: Our work [Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-24-43366&id=563438) is accepted to Optics Express! 
 
