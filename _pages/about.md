@@ -14,7 +14,7 @@ I am Xiaojian Xu, an enthusiastic researcher specializing in computational imagi
 
 Prior to joining GEHC, I was a postdoctoral researcher in the EECS department at the University of Michigan (UMich) from 2022 to 2024, working under the guidance of [Prof. Jeffrey Fessler]( https://web.eecs.umich.edu/~fessler/). I earned my Ph.D. in Computer Science in 2022 from Washington University in St. Louis (WashU), where I had the privilege of working with [Prof. Ulugbek Kamilov](https://engineering.wustl.edu/faculty/Ulugbek-Kamilov.html) in the Computational Imaging Group (CIG). Before my time at WashU, I completed my B.E. in Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2014. I was admitted to the graduate program as an exam-exempt student and later earned my M.E. in Communication and Information Systems from UESTC in 2017.
 
-My research interests span computational imaging, optimization theory, biomedical imaging, deep learning, generative AI, inverse problems, and computer vision. If you’re interested in our work, feel free to reach out!
+My research interests span computational imaging, deep learning, LLM, generative AI, NLP, optimization theory, biomedical imaging, inverse problems, and computer vision. If you’re interested in our work, feel free to reach out!
 
 
 Recent work
