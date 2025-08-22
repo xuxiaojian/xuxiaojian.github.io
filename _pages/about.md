@@ -50,7 +50,9 @@ Department of Computer Science and Engineering <br>
 Email: xiaojian+lastname@wustl.edu
 
 <a>
-<img src="/images/bridge.jpeg" alt="Trulli" width="700" height="333">
+<!-- <img src="/images/bridge.jpeg" alt="Trulli" width="700" height="333"> -->
+<img src="/images/bridge.jpeg" alt="Trulli" width="500" height="237">
+
 </a>
 
 
