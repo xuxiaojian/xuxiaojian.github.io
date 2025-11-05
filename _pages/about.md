@@ -28,10 +28,10 @@ Recent work
  
 
 
-
 Personal update
 ======
 ```bash
+* 11-04-2025: I am elected to serve on the IEEE Bio Imaging and Signal Processing Technical Committee (BISP TC).
 * 05-20-2024: I started a new position as an AI Research Scientist in the Foundation AI Team at GE HealthCare (GEHC).
 * 08-22-2022: I started my postdoc research at UMich under the supervision of Prof. Jeffrey Fessler.
 * 07-28-2022: I passed my dissertation defense on "Model-based Deep Learning for Computational Imaging".
@@ -71,6 +71,7 @@ Email: xiaojian+lastname@wustl.edu
 
 
 <!---
+* 11-04-2025: Honored to have been elected as a member of the [IEEE Bio Imaging and Signal Processing](https://signalprocessingsociety.org/community-involvement/bio-imaging-and-signal-processing) Technical Committee (BISP TC)].
 
 * 12-02-2024: The first [3D MRI Foundation Model](https://www.gehealthcare.com/insights/article/ge-healthcare-unveils-research-on-advanced-3d-mri-foundation-model?srsltid=AfmBOoo3shueJoPpdyxCaj9x0MvGnPR7qsrL_lLa5JX3nwjqo02xkwlZ) developed by our Foundation AI Team at GEHC is announced!
 
