@@ -19,6 +19,8 @@ My research interests span computational imaging, deep learning, VLMs, LLMs, gen
 
 Recent work
 ======
+* 04-04-2026: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://doi.org/10.1038/s41746-026-02596-4) is published in *npj Digital Medicine*!
+* 02-03-2026: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://arxiv.org/abs/2509.21249) is revised on arXiv (v2)!
 * 09-25-2025: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://arxiv.org/abs/2509.21249) is available on arXiv!
 * 09-15-2025: Our work [Multi Anatomy X-Ray Foundation Model](https://arxiv.org/abs/2509.12146) is available on arXiv!
 * 05-20-2025: Our work [Shorter SPECT Scans Using Self-Supervised Coordinate Learning to Synthesize Skipped Projection Views](https://pubmed.ncbi.nlm.nih.gov/40392417/) is accepted to EJNMMI physics!
