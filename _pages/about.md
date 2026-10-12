@@ -19,6 +19,7 @@ My research interests span computational imaging, deep learning, VLMs, LLMs, gen
 
 Recent work
 ======
+* 07-10-2026: Our work [Next-Dense-Stride Prediction for Multimodal Autoregressive Visual Modeling](https://arxiv.org/abs/2607.09892) is available on arXiv!
 * 04-04-2026: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://doi.org/10.1038/s41746-026-02596-4) is published in *npj Digital Medicine*!
 * 02-03-2026: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://arxiv.org/abs/2509.21249) is revised on arXiv (v2)!
 * 09-25-2025: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://arxiv.org/abs/2509.21249) is available on arXiv!
