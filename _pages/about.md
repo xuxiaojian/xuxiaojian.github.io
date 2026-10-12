@@ -21,8 +21,6 @@ Recent work
 ======
 * 07-10-2026: Our work [Next-Dense-Stride Prediction for Multimodal Autoregressive Visual Modeling](https://arxiv.org/abs/2607.09892) is available on arXiv!
 * 04-04-2026: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://doi.org/10.1038/s41746-026-02596-4) is published in *npj Digital Medicine*!
-* 02-03-2026: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://arxiv.org/abs/2509.21249) is revised on arXiv (v2)!
-* 09-25-2025: Our work [Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations](https://arxiv.org/abs/2509.21249) is available on arXiv!
 * 09-15-2025: Our work [Multi Anatomy X-Ray Foundation Model](https://arxiv.org/abs/2509.12146) is available on arXiv!
 * 05-20-2025: Our work [Shorter SPECT Scans Using Self-Supervised Coordinate Learning to Synthesize Skipped Projection Views](https://pubmed.ncbi.nlm.nih.gov/40392417/) is accepted to EJNMMI physics!
 * 05-15-2025: Our work [FlanS - A Foundation Model for Free-Form Language-based Segmentation in Medical Images](https://openreview.net/forum?id=Db2l63PiKb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2025%2FResearch_Track_February%2FAuthors%23your-submissions)) is accepted to KDD 2025 (Research Track)!
